@@ -1,10 +1,10 @@
 # 💫 About Me:
 Final-Year Computer Science Student | ISITCOM 🎓
-**I’m a computer science student passionate about building and experimenting with technology. My main focus is on web development and DevOps practices, and I’ve recently started exploring the world of cybersecurity.
+<br>I’m a computer science student passionate about building and experimenting with technology. My main focus is on web development and DevOps practices, and I’ve recently started exploring the world of cybersecurity.
 
 Outside of coding, I enjoy working on graphic design and I’m currently learning video editing to expand my creative skill set.
 
-I’m always curious, eager to learn, and open to new projects that push me to grow both technically and creatively**
+I’m always curious, eager to learn, and open to new projects that push me to grow both technically and creatively
 
 
 #  Tech Stack:
